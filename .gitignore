@@ -1,0 +1,8 @@
+bert_model/
+distil_model/
+*.safetensors
+*.bin
+*.pt
+
+
+
